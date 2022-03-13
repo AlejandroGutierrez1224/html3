@@ -49,7 +49,7 @@ nav li{
 footer{
 	text-align: center;
 	clear:both;
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "amethysta"Arial, "sans-serif";
 
 }
 
@@ -66,7 +66,7 @@ nav a:visited {
 }
 
 nav a:hover {
-  color:rgba(104,104,104,1);
+  color:rgba(0,0,225,1);
 }
 
 nav a:active {
@@ -84,8 +84,8 @@ nav a:active {
 .right{
 	width: 400px; 
 	float:left;
-	margin-left: 30px;
-	margin-top:30px;
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 18px;
+	margin-left: 50px;
+	margin-top:100px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "amethysta"Arial, "sans-serif";
+	font-size: 35px;
 }
